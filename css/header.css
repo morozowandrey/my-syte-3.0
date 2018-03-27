@@ -1,0 +1,24 @@
+.caption-box{
+
+}
+.caption, .skill, .master, .link {
+	font-size: 6em;
+	font-family: "Source Sans Pro", "sans pro", "serif";
+    text-transform: uppercase;
+	line-height: initial;
+	font-weight: 600;
+}
+.caption-part1 {
+  color: orangered;
+  margin: -31px 0 0 0;
+  
+}
+.caption-part2 {
+    color: blue;
+	margin: -90px 0 0 25px;
+}
+@media screen and (max-width: 960px) {
+	.caption {
+		font-size: 4em;
+	}
+}
