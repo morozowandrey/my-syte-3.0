@@ -22,12 +22,8 @@
     font-size: 3em;
     color: blue;
 }
-.skill.git, .link {
-    font-size: 3em;
-    color: lime;
-}
 
-.link {
+.green {
     color: lime;
 }
 .gif {

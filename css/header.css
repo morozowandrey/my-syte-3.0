@@ -1,12 +1,15 @@
 .caption-box{
 
 }
-.caption, .skill, .master, .link {
+.caption, .skill, .master {
 	font-size: 6em;
 	font-family: "Source Sans Pro", "sans pro", "serif";
-    text-transform: uppercase;
+  text-transform: uppercase;
 	line-height: initial;
 	font-weight: 600;
+}
+.skill {
+	text-transform: none;
 }
 .caption-part1 {
   color: orangered;
